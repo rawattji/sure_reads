@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sure_reads/static/css/main.c1a8d327.css",
+    "main.js": "/sure_reads/static/js/main.e6345ad1.js",
+    "static/media/back.jpg": "/sure_reads/static/media/back.9fb4286fba78c878e5fb.jpg",
+    "static/media/logo.png": "/sure_reads/static/media/logo.d2561ea3d0dcfc76ed61.png",
+    "static/media/pre.svg": "/sure_reads/static/media/pre.f2f9275aabe41027e027.svg",
+    "index.html": "/sure_reads/index.html",
+    "main.c1a8d327.css.map": "/sure_reads/static/css/main.c1a8d327.css.map",
+    "main.e6345ad1.js.map": "/sure_reads/static/js/main.e6345ad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a8d327.css",
+    "static/js/main.e6345ad1.js"
+  ]
+}
